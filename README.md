@@ -6,7 +6,7 @@ Une application Android complète permettant de découvrir et partager des recet
 
 | Écran Splash | Écran Liste | Écran Détail | Écran Partage |
 |--------------|-------------|--------------|---------------|
-| <img src="screenshots/splash.png" width="200"> | <img src="screenshots/liste.png" width="200"> | <img src="screenshots/detail.png" width="200"> | <img src="screenshots/partage.png" width="200"> |
+| <img src="screenshots/Splash.png" width="200"> | <img src="screenshots/Liste.png" width="200"> | <img src="screenshots/Détail.png" width="200"> | <img src="screenshots/partage.png" width="200"> |
 
 ## Fonctionnalités
 
